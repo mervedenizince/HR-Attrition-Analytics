@@ -1,0 +1,37 @@
+# HR Attrition Analytics - Power BI Project
+
+##  Project Objective
+The goal of this project is to analyze employee attrition and identify the key factors that affect workforce stability.  
+By visualizing the data with Power BI, HR managers can make data-driven decisions to improve retention strategies.
+
+##  Tools & Skills
+- **Power BI** (DAX, Power Query, Data Modeling, Visualization)
+- **SQL** (Data extraction and preprocessing)
+- **Excel** (Data cleaning and preparation)
+
+##  Dashboard Preview
+Here is a preview of the Power BI dashboard:
+
+![HR Dashboard Screenshot](images/hr_dashboard.png)
+
+*(Add your screenshot into the `images` folder and update the file name here.)*
+
+##  Live Report
+You can access the live version of the dashboard here:  
+👉 [View in Power BI Service](https://app.powerbi.com/...)  
+*(Replace with your actual report link if you shared it publicly.)*
+
+##  Files in This Repository
+- `HR-Attrition.pbix` → Power BI project file  
+- `Dataset.xlsx` → Sample dataset  
+- `images/` → Dashboard screenshots  
+
+##  Key Insights
+- Identified attrition rates by department, gender, and job role.  
+- Analyzed relationships between salary, age, job satisfaction, and attrition.  
+- Built interactive filters for HR managers to drill down into specific groups.  
+
+## 👩‍ Author
+**Merve Deniz Atalmış**  
+- [LinkedIn](https://www.linkedin.com/in/merve-deniz-atalmiş-12a256155)  
+- Data Analyst | Industrial Engineer | Power BI & SQL Enthusiast
